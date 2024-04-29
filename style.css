@@ -37,7 +37,7 @@ html{
 }
 
 h1,h2,h3,h4,h5,h6{
-  color: #fffff8;
+  color: rgba(37, 182, 170);
   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
 }
 
@@ -47,14 +47,14 @@ p, a{
   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   color: #fffff8;
   text-decoration: none;
+  max-width: 60%;
 }
 
 main .banner{
   position: relative;
   widows: 100%;
   height: calc(108vh - 50px);
-  background-image: url("https://ibb.co/7rpY7bQ
-https://ibb.co/TqyQ6pf");
+  background-image: url("https://github.com/xan1makko/xan1makko.github.io/blob/main/IMG%20/banner/banner.jpg?raw=true");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -95,6 +95,8 @@ body::-webkit-scrollbar-thumb{
 main .page{
   margin: 2%;
 }
+
+
 
 
 
